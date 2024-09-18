@@ -133,3 +133,11 @@ button{
     padding-top:0;
     max-width:700px;
 }
+/* fourthbox */
+/* footer */
+footer{
+    text-align:center;
+    font-size:18px;
+    color:#E5E7EB;
+    padding:30px;
+}
