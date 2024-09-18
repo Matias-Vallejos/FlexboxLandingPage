@@ -22,13 +22,20 @@ header, .firstbox, footer{
 .firstbox, .secondbox, .thirdbox{
     flex:1;
 }
+.header, .footer{
+    flex-shrink:0;
+}
 /* header */
 ul{ 
     display:flex;
     list-style-type: none;
-    justify-content: flex-end;   
+    justify-content: flex-end;
+    align-items:center;   
     padding:15px;
     gap:10px;
+}
+li{
+    padding:0;
 }
 a{
     text-decoration:none;
@@ -40,5 +47,62 @@ a{
     font-size:24px;
     color:#F9FAF8;
     font-weight: bold;
+}
+/* firstbox */
+.firstbox-title{
+    font-size:48px;
+    color:#F9FAF8;
+    font-weight: 900;
+}
+.firstbox-text{
+    font-size:18px;
+    color:#E5E7EB;
+    margin: 10px 0;
+}
+button{
+    background-color:#3882F6;
+    padding:5px 20px;
+    border-radius:5px;
+    border-style: none;
+    color:#F9FAF8;
+    font-weight:bold;
+}
+.first-container{
+    display:flex;
+    align-items: center;
+    padding:50px;
+    height:300px;
+    gap:5px;
+}
+.first-container img{
+    max-height:100%;    
+}
+/* secondbox */
+.second-title{
+    text-align:center;
+    font-size: 36px;
+    font-weight: 900;
+    color:#1F2937;
+    padding:25px;
+}
+.second-container{
+    display:flex;
+    justify-content:space-around;
+    gap:15px;
+    flex-wrap:wrap;
+    padding:25px;
+}
+.img-and-txt{
+    flex-basis:170px;
+    flex-shrink:0;
+}
+.img-and-txt p{
+    text-align: center;
+}
+.img-and-txt img{
+    height:170px;
+    width:170px;
+    border:#3882F6 solid 4px;
+    border-radius:10px;
 }
 
