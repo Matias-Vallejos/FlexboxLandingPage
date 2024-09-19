@@ -44,9 +44,10 @@ a{
 }
 .logo{
     margin-right:auto;
-    font-size:24px;
-    color:#F9FAF8;
-    font-weight: bold;
+}
+.logo img{
+    height:100px;
+    width: auto;
 }
 /* firstbox */
 .firstbox-title{
@@ -66,6 +67,7 @@ button{
     border-style: none;
     color:#F9FAF8;
     font-weight:bold;
+    cursor:pointer;
 }
 .first-container{
     display:flex;
@@ -162,3 +164,4 @@ footer{
     color:#E5E7EB;
     padding:30px;
 }
+
