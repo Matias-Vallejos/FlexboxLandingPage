@@ -15,7 +15,7 @@ Landing page desarrollada como parte del currículo de **The Odin Project**. El 
 
 ## 📋 Características del Proyecto
 * **Maquetación con Flexbox:** Uso de contenedores flexibles (`display: flex`) y ajuste de elementos en filas y columnas de manera limpia.
-* **Diseño Adaptativo:** Estructura pensada para resoluciones de escritorio y dispositivos móviles estándar, manteniendo una distribución ordenada de los componentes visuales.
+* **Distribución Fluida:** Reparto del espacio mediante `justify-content`, `align-items`, `gap` y `flex: 1`, con `flex-wrap` para que los elementos se reacomoden según el ancho disponible y `max-width` para controlar la longitud de las líneas de texto.
 * **Estructura Modular:** Separación clara entre la estructura HTML y las reglas de diseño CSS.
 
 ---
