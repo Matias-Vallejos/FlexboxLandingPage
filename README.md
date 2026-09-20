@@ -2,7 +2,7 @@
 
 Landing page desarrollada como parte del currículo de **The Odin Project**. El objetivo principal de este proyecto fue dominar el posicionamiento, la distribución y la estructuración de elementos utilizando **CSS Flexbox** a partir de un diseño visual de referencia.
 
-> **[👉 Ver proyecto en vivo (GitHub Pages)](https://matias-vallejos.github.io/FlexboxLandingPage/)**
+> **[👉 Ver proyecto en vivo (GitHub Pages)](https://matias-vallejos.github.io/flexbox-landing-page/)**
 
 ---
 
