@@ -4,6 +4,12 @@ Landing page desarrollada como parte del currículo de **The Odin Project**. El 
 
 ---
 
+# 📱 Flexbox Landing Page — The Odin Project
+
+> **[👉 Ver proyecto en vivo (GitHub Pages)](https://tu-usuario.github.io/nombre-del-repo/)**
+
+---
+
 ## 🚀 Tecnologías Utilizadas
 * **HTML5** (Estructura semántica)
 * **CSS3** (Estilos personalizados)
